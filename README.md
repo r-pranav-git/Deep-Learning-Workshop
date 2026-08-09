@@ -5,7 +5,8 @@
 ![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-This repository contains my notes, code, exercises, and projects completed during the **Deep Learning Workshop** organized by the **Department of MCA, TKM College of Engineering**, held on **7–8 August 2026**.
+
+This repository contains my notes, code, exercises, and hands-on implementations completed during the **Deep Learning Workshop** organized by the **Department of MCA, TKM College of Engineering**, held on **7–8 August 2026**.
 
 ## Workshop Topics
 
@@ -18,11 +19,17 @@ This repository contains my notes, code, exercises, and projects completed durin
 - Keras
 - Image Processing
 - Sequential Data Processing
-- Hands-on Mini Projects
+- Hands-on Deep Learning Applications
 
 ## Repository Structure
 
-
+| Notebook | Description |
+|---|---|
+| `Deep_Learnng.ipynb` | Deep Learning fundamentals and introductory exercises |
+| `CNN.ipynb` | CNN-based image classification using Fashion-MNIST and Intel Image Classification |
+| `RNN_for_Movie_Review.ipynb` | Sentiment analysis of movie reviews using a Simple RNN |
+| `next_word_prediction.ipynb` | Next-word prediction using text sequences and an RNN |
+| `README.md` | Workshop overview and repository documentation |
 
 ## Technologies Used
 
@@ -30,14 +37,20 @@ This repository contains my notes, code, exercises, and projects completed durin
 - NumPy
 - TensorFlow
 - Keras
-- Jupyter Notebook / Google Colab
+- Matplotlib
+- Scikit-learn
+- Jupyter Notebook
+- Google Colab
 
 ## Learning Outcomes
 
-- Understand the fundamentals of deep learning
+- Understand the fundamentals of Deep Learning
 - Build and train neural network models
 - Work with image and sequential datasets
-- Develop deep learning applications using TensorFlow and Keras
+- Implement CNN and RNN models
+- Perform image classification and sentiment analysis
+- Develop next-word prediction models
+- Use TensorFlow and Keras for Deep Learning applications
 
 ## Instructor
 
@@ -58,4 +71,5 @@ MCA Student
 TKM College of Engineering
 
 ---
-This repository is created for learning and educational purposes.
+
+This repository was created for learning and educational purposes.
